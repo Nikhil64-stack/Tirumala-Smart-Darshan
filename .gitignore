@@ -29,3 +29,6 @@ backend/.venv/
 Thumbs.db
 
 backend/ml_service.py
+
+IMPLEMENTATION_STATUS.md
+PROJECT_NON_ML_DOCUMENTATION.md
